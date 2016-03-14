@@ -1,0 +1,23 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	background-color: black;
+}
+
+#wrapper{
+	width: 820px;
+	height: auto;
+}
+
+h1, p{
+	color: white;
+	margin: 4px;
+}
+
+img{
+	height: 350px;
+	width: 400px;
+	border: 2px solid silver;
+	display: inline-block;
+	margin: 4px 2px;
+}
